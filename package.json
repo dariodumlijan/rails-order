@@ -4,6 +4,7 @@
   "description": "A tool for ordering rails serializer attributes",
   "icon": "./images/icon.png",
   "version": "0.0.1",
+  "publisher": "Dario Dumlijan",
   "engines": {
     "vscode": "^1.81.0"
   },
